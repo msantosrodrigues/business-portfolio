@@ -1,11 +1,11 @@
 ## CONTENTS:
 - Sample data (daily and monthly) in .xlxs files
 - Jupyter notebook with ETS and WMA models for revenue prediction
-- Power Point Presentation for questions 1, 2, 3, 4 and 5 
+- [Power Point Presentation](https://docs.google.com/presentation/d/1ODq0y5YBycAlG5CPAkccHXCVKR9swlBQuImqKtsK1VE/edit?usp=sharing) for questions 1, 2, 3, 4 and 5 
 
 ## Senior Data Analyst, Media & Analytics task
 
-[CLASSIFIED COMPANY] advertises to billions of people across the world each month. This provides the Analytics team with mountains of data to analyze, which we use to inform our internal strategy and make
+Criteo advertises to billions of people across the world each month. This provides the Analytics team with mountains of data to analyze, which we use to inform our internal strategy and make
 recommendations to our clients. 
 
 Imagine it is January 1st, 2025, and you are presented with the attached data. Can you help put together a PowerPoint presentation and answer the questions below?
