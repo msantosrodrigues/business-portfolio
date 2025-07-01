@@ -1,7 +1,7 @@
 ## CONTENTS:
 - Jupyter notebook with data treatment
 - .xlxs file with resuling data (the original data is very large, a 1GB .csv file)
-- Looker Studio dashboard using the resulting data
+- [Looker Studio dashboard](https://lookerstudio.google.com/reporting/6d78513b-cb26-4c17-bb32-a9f98b407947) using the resulting data
 
 ## Data Analyst II
 
