@@ -1,10 +1,6 @@
 ## CONTENTS:
 - Jupyter notebook Python tasks
-- Slides presentation (in pt-br) with the main findings.
-
-## Exercise 1 - Analytical Capacity
-
-The material contains two datasets, `trials` and `costs`. The `trials` dataset has a list of all trial stores (trials) that were generated in the last 20 months. The `costs` dataset contains the Marketing costs to acquire these trials.
+- [Slides presentation](https://docs.google.com/presentation/d/1t9c1ecRUcxJ366pPysOqXniq9sKiNhKnxHLL4H4Rm2s/edit?usp=sharing) (in pt-br) with the main findings.
 
 ***Definitions:***
 
@@ -25,5 +21,4 @@ Scenario: The Nuvemshop Marketing team requests your help to improve customer ac
 
 ***Deliverables:***
 
-- Create a written report of up to 4 pages. Report supposed analysis and main findings.
 - Create a presentation of up to 15 slides. Report visualizations to complement the written findings.
